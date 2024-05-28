@@ -1,0 +1,16 @@
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\bin\Debug\net7.0-windows\NetworkProtocals.exe
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\NetworkProtocals\bin\Debug\net7.0-windows\NetworkProtocals.deps.json
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\NetworkProtocals\bin\Debug\net7.0-windows\NetworkProtocals.runtimeconfig.json
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\bin\Debug\net7.0-windows\NetworkProtocals.dll
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\bin\Debug\net7.0-windows\NetworkProtocals.pdb
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.Form1.resources
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.csproj.GenerateResource.cache
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.AssemblyInfo.cs
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.dll
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\refint\NetworkProtocals.dll
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.pdb
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\NetworkProtocals.genruntimeconfig.cache
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\NetworkProtocals\obj\Debug\net7.0-windows\ref\NetworkProtocals.dll

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkProtocals", "NetworkProtocals\NetworkProtocals.csproj", "{CB135F3F-427F-41D4-B909-7815AB41367D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPSClient1", "HTTPClient1\HTTPSClient1.csproj", "{E9DED477-42D8-429D-A104-D548318AF9CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTPSClient2", "HTTPClient2\HTTPSClient2.csproj", "{CDE859A2-FD2C-41B4-B2DA-20779FFE1D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPSServer", "HTTPSBroker\HTTPSServer.csproj", "{C8C3751F-D468-4821-A547-29B80B040C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB135F3F-427F-41D4-B909-7815AB41367D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB135F3F-427F-41D4-B909-7815AB41367D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB135F3F-427F-41D4-B909-7815AB41367D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB135F3F-427F-41D4-B909-7815AB41367D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DED477-42D8-429D-A104-D548318AF9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DED477-42D8-429D-A104-D548318AF9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DED477-42D8-429D-A104-D548318AF9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DED477-42D8-429D-A104-D548318AF9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE859A2-FD2C-41B4-B2DA-20779FFE1D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE859A2-FD2C-41B4-B2DA-20779FFE1D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE859A2-FD2C-41B4-B2DA-20779FFE1D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE859A2-FD2C-41B4-B2DA-20779FFE1D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C3751F-D468-4821-A547-29B80B040C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C3751F-D468-4821-A547-29B80B040C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C3751F-D468-4821-A547-29B80B040C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C3751F-D468-4821-A547-29B80B040C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB283B49-84D6-4A02-A15D-0FD283AC7CDF}
+	EndGlobalSection
+EndGlobal

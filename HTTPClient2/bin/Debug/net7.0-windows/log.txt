@@ -1,0 +1,26 @@
+Time taken to send 1000 1KB messages: 1666 ms
+Time taken to send 1000 1MB messages: 67685 ms
+Time taken to send 1000 1KB messages: 3480 ms
+
+
+Time taken to send 1000 1KB messages: 1157 ms
+Time taken to send 1000 1MB messages: 58655 ms
+Time taken to send 1000 1KB messages: 3089 ms
+Time taken to send 1000 1KB messages: 1010 ms
+Time taken to send 1000 1MB messages: 49962 ms
+
+
+Time taken to send 1 1KB messages: 209 ms
+Time taken to send 1 1MB messages: 130 ms
+Time taken to send 1 1KB messages: 204 ms
+Time taken to send 1 1MB messages: 42 ms
+Time taken to send 1 1KB messages: 175 ms
+Time taken to send 1 1MB messages: 34 ms
+3/21/2024 9:26:54 AM   Time taken to send 1 1KB messages: 192 ms
+3/21/2024 9:26:54 AM   Time taken to send 1 1MB messages: 58 ms
+3/21/2024 9:27:36 AM   Time taken to send 1000 1KB messages: 960 ms
+3/21/2024 9:28:03 AM   Time taken to send 1000 1MB messages: 27432 ms
+3/21/2024 9:32:00 AM   Time taken to send 1000 1KB messages: 886 ms
+3/21/2024 9:32:27 AM   Time taken to send 1000 1MB messages: 27340 ms
+3/21/2024 9:42:07 AM   Time taken to send 1000 1KB messages: 785 ms
+3/21/2024 9:42:34 AM   Time taken to send 1000 1MB messages: 27201 ms

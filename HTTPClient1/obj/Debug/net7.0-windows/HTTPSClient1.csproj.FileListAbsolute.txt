@@ -1,0 +1,16 @@
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\bin\Debug\net7.0-windows\HTTPSClient1.exe
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\HTTPClient1\bin\Debug\net7.0-windows\HTTPSClient1.deps.json
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\HTTPClient1\bin\Debug\net7.0-windows\HTTPSClient1.runtimeconfig.json
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\bin\Debug\net7.0-windows\HTTPSClient1.dll
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\bin\Debug\net7.0-windows\HTTPSClient1.pdb
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPClient1.Form1.resources
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.csproj.GenerateResource.cache
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.AssemblyInfo.cs
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.dll
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\refint\HTTPSClient1.dll
+C:\Users\junyu\source\repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.pdb
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\HTTPSClient1.genruntimeconfig.cache
+C:\Users\junyu\Source\Repos\NetworkProtocolInvestigation\HTTPClient1\obj\Debug\net7.0-windows\ref\HTTPSClient1.dll

@@ -1,0 +1,12 @@
+Time taken to send 1 1KB messages: 195 ms
+Time taken to send 1 1MB messages: 213 ms
+
+Time taken to send 10 1KB messages: 216 ms
+Time taken to send 10 1MB messages: 786 ms
+
+Time taken to send 100 1KB messages: 361 ms
+Time taken to send 100 1MB messages: 6042 ms
+
+
+Time taken to send 1000 1KB messages: 1044 ms
+Time taken to send 1000 1MB messages: 60229 ms

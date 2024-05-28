@@ -1,0 +1,50 @@
+Time taken to send 1 1KB messages: 195 ms
+Time taken to send 1 1MB messages: 213 ms
+
+Time taken to send 10 1KB messages: 216 ms
+Time taken to send 10 1MB messages: 786 ms
+
+Time taken to send 100 1KB messages: 361 ms
+Time taken to send 100 1MB messages: 6042 ms
+
+
+Time taken to send 1000 1KB messages: 1044 ms
+Time taken to send 1000 1MB messages: 60229 ms
+Time taken to send 1 1KB messages: 229 ms
+Time taken to send 1 1MB messages: 46 ms
+Time taken to send 1 1KB messages: 194 ms
+Time taken to send 1 1MB messages: 38 ms
+Time taken to send 1 1KB messages: 4317 ms
+Time taken to send 1 1MB messages: 4124 ms
+Time taken to send 1 1KB messages: 237 ms
+Time taken to send 1 1MB messages: 36 ms
+Time taken to send 1 1KB messages: 213 ms
+Time taken to send 1 1MB messages: 34 ms
+Time taken to send 1 1KB messages: 180 ms
+Time taken to send 1 1MB messages: 40 ms
+Time taken to send 1 1KB messages: 343 ms
+Time taken to send 1 1MB messages: 269 ms
+Time taken to send 1 1KB messages: 222 ms
+Time taken to send 1 1MB messages: 37 ms
+Time taken to send 1 1KB messages: 93571 ms
+Time taken to send 1 1MB messages: 27255 ms
+Time taken to send 1 1KB messages: 9143 ms
+Time taken to send 1 1MB messages: 35 ms
+Time taken to send 1 1KB messages: 178 ms
+Time taken to send 1 1KB messages: 231 ms
+Time taken to send 1 1KB messages: 4301 ms
+Time taken to send 1 1MB messages: 38 ms
+Time taken to send 1 1KB messages: 173 ms
+Time taken to send 1 1MB messages: 39 ms
+Time taken to send 1 1KB messages: 175 ms
+Time taken to send 1 1MB messages: 39 ms
+Time taken to send 1 1KB messages: 171 ms
+Time taken to send 1 1MB messages: 42 ms
+Time taken to send 1 1KB messages: 170 ms
+Time taken to send 1 1MB messages: 35 ms
+Time taken to send 1 1KB messages: 170 ms
+Time taken to send 1 1MB messages: 34 ms
+Time taken to send 1 1KB messages: 4293 ms
+Time taken to send 1 1MB messages: 1591 ms
+Time taken to send 1 1KB messages: 211 ms
+Time taken to send 1 1MB messages: 44 ms
